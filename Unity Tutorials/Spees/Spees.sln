@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spees", "Spees.csproj", "{1FC135D1-D629-132D-59AE-AC24F891C272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spees.Editor", "Spees.Editor.csproj", "{294149EC-280F-9937-015F-512A0F9F4F63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FC135D1-D629-132D-59AE-AC24F891C272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC135D1-D629-132D-59AE-AC24F891C272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC135D1-D629-132D-59AE-AC24F891C272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC135D1-D629-132D-59AE-AC24F891C272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294149EC-280F-9937-015F-512A0F9F4F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294149EC-280F-9937-015F-512A0F9F4F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294149EC-280F-9937-015F-512A0F9F4F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294149EC-280F-9937-015F-512A0F9F4F63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D040DFEB-4DE7-4E55-B72A-4BB53E56DB50}
+	EndGlobalSection
+EndGlobal
